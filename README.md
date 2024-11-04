@@ -1,6 +1,6 @@
 #### Hi there, I'am Misha Karpov 👋
 
-*Contacts*:&nbsp;
+*Socials*:&nbsp;
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/mishakrpv)
 [![X](https://img.shields.io/twitter/follow/mishavkrpv)](https://x.com/mishavkrpv)
